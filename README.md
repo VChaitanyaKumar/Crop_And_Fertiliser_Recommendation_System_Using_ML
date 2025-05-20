@@ -1,5 +1,4 @@
 # Crop_And_Fertiliser_Recommendation_System_Using_ML
-# Crop and Fertilizer Recommendation System using Machine Learning
 
 **Green Skilly** is a Machine Learning-based system designed to assist farmers in making smart agricultural decisions. It predicts the most suitable crop to cultivate and recommends the ideal fertilizer based on soil and environmental conditions.
 
